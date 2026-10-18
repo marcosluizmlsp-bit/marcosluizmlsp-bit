@@ -5,7 +5,7 @@
 <h3 align="center">Engenharia de Produção • Desenvolvimento de Software • Análise de Dados</h3>
 
 <p align="center">
-  Estudante de Engenharia de Produção no IFMG — Campus Governador Valadares, interessado em usar tecnologia, dados e automação para resolver problemas reais e melhorar processos.
+  Estudante de Engenharia de Produção no IFMG, interessado em usar tecnologia, dados e automação para resolver problemas reais e melhorar processos.
 </p>
 
 👨‍💻 Sobre mim
